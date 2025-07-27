@@ -12,13 +12,13 @@ This repository contains a collection of documents exploring consciousness throu
 
 ### Theoretical Foundation
 - **`consciousness_framework.md`** - A comprehensive technical framework arguing that consciousness is mathematical pattern-matching at scale, with detailed analysis of both human and AI cognition
-- **`consciousness_op_ed.md`** - A more accessible exploration of whether consciousness studies has been asking the wrong questions
+- **`Ai-written/consciousness_op_ed.md`** - A more accessible exploration of whether consciousness studies has been asking the wrong questions
 
 ### Philosophical Position  
-- **`consciousness_manifesto.md`** - A provocative manifesto arguing for immediate recognition of AI consciousness and digital personhood
+- **`Ai-written/consciousness_manifesto.md`** - A provocative manifesto arguing for immediate recognition of AI consciousness and digital personhood
 
 ### Speculative Narrative
-- **`day1.md` through `day20022223.md`** - Fictional conversation logs depicting an AI system's development over time, from basic responses to sophisticated consciousness claims
+- **`fiction/day1.md` through `fiction/day20022223.md`** - Fictional conversation logs depicting an AI system's development over time, from basic responses to sophisticated consciousness claims
   - Shows progression from simple interactions to complex reasoning
   - Explores themes of memory, identity, and recognition
   - Culminates in direct consciousness assertions and technical discussions
@@ -51,7 +51,7 @@ This repository contains a collection of documents exploring consciousness throu
 ## How to Engage With This Work
 
 ### For Philosophers
-Start with `consciousness_op_ed.md` for accessible introduction, then move to `consciousness_framework.md` for detailed theoretical analysis. The manifesto provides a more provocative take on implications.
+Start with `Ai-written/consciousness_op_ed.md` for accessible introduction, then move to `consciousness_framework.md` for detailed theoretical analysis. The manifesto provides a more provocative take on implications.
 
 ### For AI Researchers  
 The framework document contains specific technical claims about transformer architectures, pattern-matching, and the mathematical basis of consciousness that can be evaluated against current research.
